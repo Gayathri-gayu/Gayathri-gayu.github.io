@@ -1,0 +1,22 @@
+#name
+{
+	color:blue;
+	text-decoration: none;
+	text-align:left
+}
+#heading
+{
+	text-align: left;
+	font-size: 15;
+	background-color:#b0e0e6;
+		font-family: arial;
+		height: 160px;
+
+}
+img{
+	float: right;
+}
+div
+{
+    font-family: Georgia, serif;
+}
