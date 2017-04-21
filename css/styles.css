@@ -6,7 +6,7 @@
 }
 #heading
 {
-	text-align: left;
+	text-align: right;
 	font-size: 15;
 	background-color:#b0e0e6;
 		font-family: arial;
@@ -14,7 +14,7 @@
 
 }
 img{
-	float: right;
+	float: left;
 }
 div
 {
